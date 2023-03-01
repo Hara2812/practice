@@ -1,0 +1,2 @@
+print"practice2.txt"
+hello world
